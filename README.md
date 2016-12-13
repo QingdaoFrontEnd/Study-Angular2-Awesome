@@ -1,6 +1,3 @@
-# Study-Angular2-Awesome
-学习Angular2的资源
-
 # Awesome ng2 - 中文版本 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Angular2（以下也称为ng2）资源大全，收集ng2周边生态圈的各种资料，包括图书，教程，视频，脚手架等等内容。
